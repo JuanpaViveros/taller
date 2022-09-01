@@ -2,14 +2,37 @@ nav {
     background-color: red;
     text-align: center;
     color: white;
-    padding: 20px;
-    margin: auto;
+
+
+}
+
+section {
+    box-sizing: border-box;
+    text-align: center;
+    width: 0%;
+}
+
+div.container p {
+    text-align: justify all;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#imgabriel {
+    width: 450px;
+    height: 250px;
+    border-radius: 10%;
+
+}
+
+#imgabriel {
+    float: right;
 }
 
 footer {
     background-color: red;
     text-align: center;
     color: white;
-    padding: 20px;
-    margin: auto;
+    padding: 0.5px;
+
 }
