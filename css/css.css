@@ -13,13 +13,16 @@ footer {
 }
 
 form {
+
     text-align: center;
 }
 
-form {
+button {
+
+
+
     text-align: center;
 }
-
 
 button {
 
@@ -28,7 +31,15 @@ button {
     border-radius: 10px;
     padding: 10px 50px;
     color: white;
+
     size: 15;
     background-color: red;
+
+    size: 10;
+    background-color: red;
+}
+
+.container {
+    width: 100%;
 
 }
